@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(0, 0, 0);
+}
+
+.container .jumbotron {
+    background: rgb(15, 15, 15);
+    border-radius: 0px;
+}
+
+.jumbotron h1 {
+    color: rgb(255, 255, 0);
+}
+
+.jumbotron p {
+    color: rgb(255, 255, 255);
+}
+
+th {
+    color: rgb(255, 255, 0);
+}
+
+tr td {
+    color: rgb(255, 255, 255);
+}
+
+.table-hover>tbody>tr:hover {
+    background: rgb(50, 50, 50);
+}
